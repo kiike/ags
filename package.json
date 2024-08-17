@@ -5,6 +5,7 @@
     "author": "Aylur",
     "license": "GPL",
     "dependencies": {
+        "@girs/pangocairo-1.0": "^1.0.0-3.2.7",
         "typescript": "^5.1.0"
     },
     "devDependencies": {

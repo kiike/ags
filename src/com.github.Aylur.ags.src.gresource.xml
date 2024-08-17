@@ -33,6 +33,7 @@
     <file>widgets/menuitem.js</file>
     <file>widgets/overlay.js</file>
     <file>widgets/progressbar.js</file>
+    <file>widgets/rectangularprogress.js</file>
     <file>widgets/revealer.js</file>
     <file>widgets/scrollable.js</file>
     <file>widgets/separator.js</file>

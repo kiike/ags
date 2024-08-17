@@ -22,6 +22,7 @@ import { newMenuBar as MenuBar } from './widgets/menubar.js';
 import { newMenuItem as MenuItem } from './widgets/menuitem.js';
 import { newOverlay as Overlay } from './widgets/overlay.js';
 import { newProgressBar as ProgressBar } from './widgets/progressbar.js';
+import { newRectangularProgress as RectangularProgress } from './widgets/rectangularprogress.js';
 import { newRevealer as Revealer } from './widgets/revealer.js';
 import { newScrollable as Scrollable } from './widgets/scrollable.js';
 import { newSeparator as Separator } from './widgets/separator.js';
@@ -77,6 +78,7 @@ export {
     MenuItem,
     Overlay,
     ProgressBar,
+    RectangularProgress,
     Revealer,
     Scrollable,
     Separator,
@@ -113,6 +115,7 @@ W.MenuBar = MenuBar;
 W.MenuItem = MenuItem;
 W.Overlay = Overlay;
 W.ProgressBar = ProgressBar;
+W.RectangularProgress = RectangularProgress;
 W.Revealer = Revealer;
 W.Scrollable = Scrollable;
 W.Separator = Separator;
